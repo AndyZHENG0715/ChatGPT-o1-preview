@@ -13,8 +13,8 @@ This repository implements the OpenAI o1-preview model using Python with Azure A
 ### Setup
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AndyZHENG0715/urban-waffle.git
-   cd urban-waffle
+   git clone https://github.com/AndyZHENG0715/ChatGPT-o1-preview.git
+   cd ChatGPT-o1-preview
    
 
 2. **Create a virtual environment:**
