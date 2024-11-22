@@ -1,14 +1,14 @@
 # OpenAI o1-preview with Python by Azure AI Inference
 
 ## Purpose
-This repository implements the OpenAI o1-preview model using Python with Azure AI Inference. The goal is to create a seamless integration for deploying and utilizing OpenAI's capabilities with Azure's robust AI infrastructure.
+This repository implements a web-based chatbot interface using OpenAI's models through Azure AI Inference. The application allows users to interact with different AI models including o1-preview, o1-mini, gpt-4o, and gpt-4o-mini.
 
 ## Getting Started
 
 ### Prerequisites
 - Python 3.7 or higher
-- Azure subscription
-- OpenAI API key
+- GitHub Personal Access Token
+- Azure AI Inference subscription
 
 ### Setup
 1. **Clone the repository:**
